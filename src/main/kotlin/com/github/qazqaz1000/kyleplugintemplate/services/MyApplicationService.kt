@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.qazqaz1000.kyleplugintemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.qazqaz1000.kyleplugintemplate.MyBundle
 
 class MyApplicationService {
 
